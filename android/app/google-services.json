@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448803774193",
+    "firebase_url": "https://aytekinlogin.firebaseio.com",
+    "project_id": "aytekinlogin",
+    "storage_bucket": "aytekinlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448803774193:android:214051bbd4e48cd03fd350",
+        "android_client_info": {
+          "package_name": "com.galva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448803774193-cjq3rn547kthcl2q5v6b44vn0h5pcot2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galva",
+            "certificate_hash": "8f7ec4274a00a12b6edf5d446964df50122f3e97"
+          }
+        },
+        {
+          "client_id": "448803774193-l7m4rgc0l68s42hrad0i1c5c9povjq10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKz4OcKSuIsrbahLbM_k_R5raMRtQwnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448803774193-l7m4rgc0l68s42hrad0i1c5c9povjq10.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448803774193-5h9s94dhs46fih0iji3qtqop8196np9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galva.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
